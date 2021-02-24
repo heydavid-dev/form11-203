@@ -1,7 +1,7 @@
 ---
 color:
-  primary: ff2600
-  secondary: ff9300
+  primary: #ff2600
+  secondary: #ff9300
   secondary-dark: 333
   muted: 777
 font:
