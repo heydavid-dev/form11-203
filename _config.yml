@@ -1,44 +1,44 @@
 ---
 url: https://chickensmitten.github.io
 baseurl: "/agency"
-header-title: Welcome To Our Agency
-header-subtitle: It's Nice to be Friends
-header-button: Tell Me More
-title: Awesome Title
+header-title: I am going to Ruin You!
+header-subtitle: I am going to Ruin You!
+header-button: Ruin You!
+title: I am going to Ruin You!
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 services:
-  title: Services
+  title: Ruin Services
   description: Lorem ipsum dolor sit amet consectetur.
 services-list:
-- name: E-Commerce
+- name: Glass
   icon: glass
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
-- name: Responsive Design
+- name: Music
   icon: music
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
-- name: Web Security
-  icon: search
+- name: User
+  icon: user
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
 portfolio:
-  title: Portfolio
+  title: Ruin Portfolio
   description: Lorem ipsum dolor sit amet consectetur.
 team:
-  title: Our Amazing Team
-  top-description: Lorem ipsum dolor sit amet consectetur.
+  title: Team Ruin
+  top-description: This is no funny business
   bottom-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
     eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
     alias ut unde.
 about:
-  title: About
-  description: Lorem ipsum dolor sit amet consectetur.
+  title: About Ruin
+  description: Funny Business
 about-timeline-list:
-- date: 2009-2011
+- date: 2019-2020
   pic: 1
   heading: Our Humble Beginnings
   body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
@@ -89,23 +89,23 @@ people-list:
   pic: 3
   position: Lead Developer
   social-list:
-  - title: twitter
-    url: https://twitter.com
-  - title: facebook
-    url: https://facebook.com
-  - title: linkedin
-    url: https://linkedin.com
+  - title: google-plus
+    url: https://google.com
+  - title: google-plus
+    url: https://google.com
+  - title: google-plus
+    url: https://google.com
 footer-list:
-- title: twitter
-  url: https://twitter.com
-- title: facebook
-  url: https://facebook.com
 - title: stack-overflow
   url: https://stackoverflow.com
-- title: bitbucket
-  url: https://bitbucket.org
-- title: github
-  url: https://github.com
+- title: stack-overflow
+  url: https://stackoverflow.com
+- title: stack-overflow
+  url: https://stackoverflow.com
+- title: stack-overflow
+  url: https://stackoverflow.com
+- title: stack-overflow
+  url: https://stackoverflow.com
 address:
 - line: 3481 Melrose Place
 - line: Beverly Hills, CA 90210
