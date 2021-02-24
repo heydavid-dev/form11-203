@@ -1,7 +1,7 @@
 ---
 color:
-  primary: "#fed136"
-  secondary: "#fec503"
+  primary: 00fdff
+  secondary: 0433ff
   secondary-dark: 333
   muted: 777
 font:
